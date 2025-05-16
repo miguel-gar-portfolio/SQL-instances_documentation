@@ -20,9 +20,8 @@ Este repositorio está diseñado para su uso en entornos de desarrollo, document
 
 ## ⚠️ Licencia y restricciones de uso
 
-Este proyecto se distribuye **únicamente para fines no comerciales**.  
-**Queda prohibido su uso con fines comerciales**, total o parcialmente, sin autorización previa y expresa del autor.
+Este repositorio está licenciado bajo la Creative Commons Atribución-No Comercial 4.0 Internacional (CC BY-NC 4.0).
+Puedes encontrar los detalles completos de la licencia aquí.
 
-Si deseas utilizar este proyecto en un contexto comercial, por favor contáctame para obtener los permisos correspondientes.
-
----
+Atribución: Cita a los autores originales.
+No Comercial: No puedes usar el código para fines comerciales.
